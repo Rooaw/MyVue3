@@ -2,11 +2,11 @@ A mini Vue.
 
 To do list:
 
-  REACTIVE ✔
+  - REACTIVE ✔
   
-  EFFECY ✔
+  - EFFECY ✔
   
-  ...
+  - ...
   
 Just for learning, It's not complete yet.
 
